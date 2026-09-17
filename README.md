@@ -32,4 +32,8 @@ This repository contains the solution to the Leetcode questions.
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0867-transpose-matrix) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

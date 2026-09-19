@@ -8,6 +8,7 @@ This repository contains the solution to the Leetcode questions.
 | ------- |
 | [0001-two-sum](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0136-single-number](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0136-single-number) |
 | [0867-transpose-matrix](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0867-transpose-matrix) |
@@ -45,4 +46,5 @@ This repository contains the solution to the Leetcode questions.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

@@ -33,15 +33,18 @@ This repository contains the solution to the Leetcode questions.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0867-transpose-matrix) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0009-palindrome-number) |
+| [0412-fizz-buzz](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
 | ------- |

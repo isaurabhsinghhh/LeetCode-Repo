@@ -13,6 +13,7 @@ This repository contains the solution to the Leetcode questions.
 | [0136-single-number](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0136-single-number) |
 | [0867-transpose-matrix](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/1572-matrix-diagonal-sum) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -40,6 +41,7 @@ This repository contains the solution to the Leetcode questions.
 | ------- |
 | [0058-length-of-last-word](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0412-fizz-buzz) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Math
 |  |
 | ------- |

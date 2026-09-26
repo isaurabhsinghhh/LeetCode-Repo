@@ -56,4 +56,8 @@ This repository contains the solution to the Leetcode questions.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0283-move-zeroes) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->

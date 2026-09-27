@@ -11,6 +11,7 @@ This repository contains the solution to the Leetcode questions.
 | [0027-remove-element](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0283-move-zeroes) |
 | [0867-transpose-matrix](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0867-transpose-matrix) |
@@ -55,9 +56,14 @@ This repository contains the solution to the Leetcode questions.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0283-move-zeroes) |
 ## Linked List
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

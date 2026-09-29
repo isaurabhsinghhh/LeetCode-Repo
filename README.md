@@ -21,6 +21,7 @@ This repository contains the solution to the Leetcode questions.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@ This repository contains the solution to the Leetcode questions.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -50,6 +52,7 @@ This repository contains the solution to the Leetcode questions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/isaurabhsinghhh/LeetCode-Repo/tree/master/0412-fizz-buzz) |
 ## Two Pointers
 |  |
